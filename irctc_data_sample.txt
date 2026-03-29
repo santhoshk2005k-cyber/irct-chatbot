@@ -1,0 +1,68 @@
+6IRCTC TRAIN DATA SAMPLE
+
+-------------------------------
+1. TRAIN SCHEDULE
+-------------------------------
+Train No: 12623
+Train Name: Chennai Mail
+From: Chennai Central (MAS)
+To: New Delhi (NDLS)
+Departure: 06:00 AM
+Arrival: 10:30 PM
+Days: Mon, Wed, Fri
+Classes: SL, 3A, 2A
+
+Train No: 12028
+Train Name: Shatabdi Express
+From: Bengaluru (SBC)
+To: Chennai (MAS)
+Departure: 06:00 AM
+Arrival: 11:30 AM
+Days: Daily
+Classes: CC, EC
+
+-------------------------------
+2. TICKET BOOKING DETAILS
+-------------------------------
+Passenger Name: Santhosh
+Age: 21
+Gender: Male
+Train No: 12623
+Class: 3A
+Seat No: B2-45
+PNR: 1234567890
+Booking Status: Confirmed
+Fare: Rs. 1450
+
+Passenger Name: Rahul
+Age: 30
+Gender: Male
+Train No: 12028
+Class: CC
+Seat No: C1-12
+PNR: 9876543210
+Booking Status: RAC
+Fare: Rs. 850
+
+-------------------------------
+3. TICKET CANCELLATION DETAILS
+-------------------------------
+PNR: 1234567890
+Cancellation Date: 25-03-2026
+Refund Amount: Rs. 1200
+Cancellation Charges: Rs. 250
+
+PNR: 9876543210
+Cancellation Date: 26-03-2026
+Refund Amount: Rs. 700
+Cancellation Charges: Rs. 150
+
+-------------------------------
+4. GENERAL RULES
+-------------------------------
+1. Tickets can be booked online or at railway counters.
+2. Cancellation charges depend on time before departure.
+3. Refund will be processed within 5-7 working days.
+4. ID proof is mandatory during travel.
+
+END OF FILE
