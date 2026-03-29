@@ -1,0 +1,302 @@
+INDIAN RAILWAYS TRAIN SCHEDULE DATA (20 TRAINS)
+
+Train No: 12621
+Name: Tamil Nadu Express
+From: MAS
+To: NDLS
+Departure: 22:00
+Arrival: 07:05 (+2)
+
+Train No: 12622
+Name: Tamil Nadu Express
+From: NDLS
+To: MAS
+Departure: 22:30
+Arrival: 06:45 (+2)
+
+Train No: 12028
+Name: Shatabdi Express
+From: SBC
+To: MAS
+Departure: 06:00
+Arrival: 11:30
+
+Train No: 12027
+Name: Shatabdi Express
+From: MAS
+To: SBC
+Departure: 17:30
+Arrival: 22:55
+
+Train No: 12639
+Name: Brindavan Express
+From: MAS
+To: SBC
+Departure: 07:40
+Arrival: 13:15
+
+Train No: 12640
+Name: Brindavan Express
+From: SBC
+To: MAS
+Departure: 15:20
+Arrival: 21:00
+
+Train No: 12615
+Name: Grand Trunk Express
+From: MAS
+To: NDLS
+Departure: 19:15
+Arrival: 10:55 (+2)
+
+Train No: 12616
+Name: Grand Trunk Express
+From: NDLS
+To: MAS
+Departure: 18:40
+Arrival: 09:15 (+2)
+
+Train No: 12673
+Name: Cheran Express
+From: MAS
+To: CBE
+Departure: 22:30
+Arrival: 06:40
+
+Train No: 12674
+Name: Cheran Express
+From: CBE
+To: MAS
+Departure: 22:50
+Arrival: 06:55
+
+Train No: 12675
+Name: Kovai Express
+From: MAS
+To: CBE
+Departure: 06:15
+Arrival: 13:15
+
+Train No: 12676
+Name: Kovai Express
+From: CBE
+To: MAS
+Departure: 14:45
+Arrival: 21:50
+
+Train No: 16031
+Name: Andaman Express
+From: MAS
+To: SMVB
+Departure: 05:15
+Arrival: 11:45
+
+Train No: 16032
+Name: Andaman Express
+From: SMVB
+To: MAS
+Departure: 15:30
+Arrival: 22:00
+
+Train No: 12695
+Name: Trivandrum Express
+From: MAS
+To: TVC
+Departure: 07:50
+Arrival: 21:30
+
+Train No: 12696
+Name: Trivandrum Express
+From: TVC
+To: MAS
+Departure: 08:30
+Arrival: 22:10
+
+Train No: 12601
+Name: Mangalore Mail
+From: MAS
+To: MAQ
+Departure: 20:25
+Arrival: 12:00 (+1)
+
+Train No: 12602
+Name: Mangalore Mail
+From: MAQ
+To: MAS
+Departure: 14:00
+Arrival: 05:45 (+1)
+
+Train No: 16127
+Name: Guruvayur Express
+From: MS
+To: GUV
+Departure: 09:00
+Arrival: 05:00 (+1)
+
+Train No: 16128
+Name: Guruvayur Express
+From: GUV
+To: MS
+Departure: 04:00
+Arrival: 21:30
+
+
+Cancellation and Refund Rules for IRCTC Trains:
+
+E-Ticket booked for IRCTC Trains can be cancelled online and refund will be granted by the
+system as per IRCTC Refund Rules, as follows:
+1. Cancellation Charges for Confirmed Tickets
+The amount deducted is based on the time of cancellation and the status of your ticket at
+the time of cancellation. Detailed explanations are given below:
+a) If a confirmed ticket is cancelled online more than forty-eight (48) hours in advance
+of the scheduled departure of the train, a minimum per passenger cancellation charges
+shall be deducted at the flat rate as below:
+
+Class of Your Ticket Flat Cancellation Charges per Passenger
+Executive Class (EC) ₹240/- +GST
+AC Chair Car (CC) ₹180/- +GST
+b) If a confirmed ticket is cancelled online between forty-eight hours (48) and up to
+twelve (12) hours before the scheduled departure of the train, cancellation charges
+will be deducted as follows:
+25%(Twenty Five percent) of the fare subject to the minimum cancellation charge
+referred to in clause 1(a) plus GST applicable for all AC Classes
+c) If a confirmed ticket is cancelled online within twelve (12) hours and up to four hours
+before the scheduled departure of the train, cancellation charges will be deducted as
+follows:
+50%(Fifty percent) of the fare subject to the minimum cancellation charge referred
+to in clause 1(a) ) plus GST applicable for all AC Classes
+d) No refund of fare shall be admissible on the tickets having confirmed reservation in
+case ticket is not cancelled online or TDR not filed online up to four hours before the
+scheduled departure of the train
+2. Cancellation Charges for Waitlisted Tickets
+a) In case a wait-listed ticket is cancelled online, the refund of fare shall be made after
+deducting the cancellation charge of ₹ 20/- +GST per passenger, if the ticket is cancelled
+online up to four hours before the Scheduled Departure of the Train.
+b) If all passengers on a ticket remain on waiting list after first charting, user need not
+cancel such tickets. Such tickets will be cancelled automatically through the system, and
+the full refund will be credited back, without deducting any cancellation.
+
+3. Cancellation Charges for Partially Confirmed Tickets
+a) In case, on a party e-ticket or a family e-ticket issued for travel of more than one
+passenger, some passengers have confirmed reservation and others are on waiting list,
+full refund of fare, less cancellation charge of ₹ 20/- +GST per passenger, shall be
+admissible for confirmed passengers also subject to the condition that the ticket shall be
+cancelled online or online TDR shall be filed for all the passengers up to four hours before
+the Scheduled Departure of the Train.
+b) In case, on a party e-ticket or a family e-ticket issued for travel of more than one
+passenger, some passengers have confirmed reservation and others are on waiting list,
+full refund of fare without deducting cancellation, shall be admissible for confirmed
+passengers also subject to the condition that the ticket shall be cancelled online or online
+TDR shall be filed for all the passengers after first charting and up to thirty minutes
+before the scheduled departure of the train.
+c) In case of party e-ticket or family e-ticket issued for travel of more than one passenger,
+some passengers have confirmed reservation and others are on the list of waiting list,
+then in case of passengers in waiting list not travelling, a certificate shall be obtained by
+travelling passengers from the ticket checking staff to that effect and refund of fare shall
+be processed online through TDR, indicating the details of the certificate issued by ticket
+checking staff and the online TDR shall be filed up to seventy-two (72) hours of actual
+arrival of the train at passengers' destination and the original certificate issued by ticket
+checking staff shall be sent through post to Group General Manager/IT, Indian Railway
+Catering and Tourism Corporation Ltd., Internet Ticketing Centre, IRCA Building, State
+Entry Road, New Delhi – 110055
+4. Cancellation Charges for Wait List Tickets Dropped from Charting
+In case of wait-listed e-tickets on which all the passengers are on waiting list even after
+preparation of reservation chart, names of all such passengers booked on that Passenger
+Name Record (PNR) will be dropped from the reservation chart and refund of full fare
+will be credited back to the account from which booking transaction took place, without
+deducting any cancellation charges.
+5. Cancellation Charges for Full Cancellation of Train (from originating station to
+destination station)
+In case of full cancellation of trains from source to destination, automatic full refund of
+fare on confirmed e-tickets will be directly credited back to the account from which
+booking transaction took place, and online cancellation or filing of TDR is not required in
+such cases for use₹
+6. Cancellation Charges for Partial Cancellation of Train
+In case of partial train cancellation, train diverted, train short terminated etc., TDR is
+required to be filed online up to Seventy Two Hours of the Scheduled Departure of the
+Train at Passenger’s Boarding Station.
+
+7. Cancellation Charges for Train Running More than 3 Hours Late and Passenger not
+travelled
+No cancellation charge will be levied and full fare will be refunded back to all passengers
+holding fully or partially confirmed tickets, if the journey is not undertaken due to late
+running of the train by more than three hours of the scheduled departure of the train
+from the station commencing journey subject to the condition that:
+i. Train is running late by more than three hours at the passenger boarding station.
+ii. TDR is filed online before the actual departure of the train, for availing full refund.
+iii. All passengers booked on a PNR have not travelled.
+In case the ticket is cancelled, or if the request for refund of fare is filed online after the
+actual departure of train, No refund of fare will be admissible.
+8. TDR filing for IRCTC Trains (Rules & Validations)
+S. No. TDR Filing Reasons Time Limit/Rules
+1 Train late more than three hours and
+passenger Not travelled
+Up to the actual departure time of the train
+at Boarding Station.
+2 Difference Of Fare In Case proper
+Coach Not Attached. (passenger has
+to travel in lower class)
+Up to 2 days (Excluding the day of issue of
+the certificate)
+3 AC Failure Within 20 hours of actual arrival time of
+the train at Passenger’s Destination
+Station.
+4 All Confirmed Passenger Not
+Travelled
+Up to 4 hours before the Schedule
+Departure time of the train at Passenger’s
+Boarding Station.
+5 Train Diverted and Passenger Not
+Travelled
+Up to 72 hours from Schedule Departure of
+the Train from Passenger's Boarding
+Station
+6 Train Diverted and Train not
+touching Boarding Station
+Up to 72 hours from Schedule Departure
+time of the train at Passenger's Boarding
+Station.
+7 Train Diverted and train not touching
+Destination Station
+Up to 72 hours from Schedule Departure
+time of the train at Passenger's Boarding
+Station.
+9 Party Partially Confirm/Waitlist &
+Waitlisted Passengers Did Not Travel
+Up to 72 hours of actual Arrival Time of the
+Train at Passenger’s Destination Station.
+10 Party Partially Confirmed/Waitlisted
+And All Passengers Did Not Travel.
+Up to 30 Minutes before the Schedule
+Departure Time of the Train at Passenger's
+Boarding Station.
+11 Difference of Fare as Passenger
+Travelled in Lower Class
+Up to 2 days (Excluding the day of issue of
+the certificate)
+12 Party Partially Travelled (Refund on
+Partially Used Ticket)
+Up to 72 hours from Schedule Departure
+Time of the Train at Passenger's Boarding
+Station.
+13 Passenger Not Travelled as
+Reservation provided in Lower class
+Within 3 Hours from the Actual Departure
+Time of the train at Passenger's Boarding
+Station
+14 Passenger Not travelled Due To
+Coach Damage
+Within 3 Hours from the Actual Departure
+Time of the train at Passenger's Boarding
+Station
+15 Train Terminated Short of
+Destination
+TDR shall be filed up to 72 hours of the
+Scheduled Arrival of the Train at
+Passenger’s Destination.
+
+Connecting Train ticket booking not allowed on IRCTC trains. As such no refund is applicable
+on connecting journey tickets.
+
+
+
